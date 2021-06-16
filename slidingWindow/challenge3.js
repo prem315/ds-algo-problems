@@ -1,3 +1,5 @@
+// length of the smallest sub array 
+
 function smallest_subarr(arr, k){
     let window_sum = 0;
     let length = Infinity;
