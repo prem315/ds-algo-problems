@@ -30,4 +30,4 @@ function longestSubStr(str, k) {
     console.log(maxLength)
 }
 
-longestSubStr('araaci', 2)
+longestSubStr('aabacebebebe', 3)
